@@ -1,0 +1,9 @@
+header{
+  height: 20%;
+  width: 100%;
+}
+
+.pattern{
+  background-size: cover;
+  background-repeat: repeat;
+}
