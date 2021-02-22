@@ -51,3 +51,35 @@ h2{
 span{
   background-color:#FFFF00;
 }
+
+.lista{
+  margin: 0;
+}
+
+thead{
+  background-color:#20A9E5 ;
+  color:#FFFFFF ;
+  border-color: #20A9E5;
+  text-align: left;
+}
+
+tbody{
+  background-color:#B1E5F2 ;
+}
+
+th {
+  width: 25%;
+}
+
+td{
+  width: 25%;
+}
+
+.special{
+  width: 50%;
+}
+
+.special-body{
+  background-color:#FFFFFF ;
+}
+
