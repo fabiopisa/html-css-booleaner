@@ -13,3 +13,41 @@ header{
   margin-top: 5%;
   margin-left: 10%;
 }
+
+main{
+  width: 80%;
+  margin: auto;
+}
+
+h1{
+  font-size: 50px;
+  margin-top: 1%;
+}
+
+h2{
+  display: inline-block;
+}
+
+.first-color{
+  color:#9A9A9A ;
+}
+
+.second-color{
+  color: #37B2E7;
+}
+
+.third-color{
+  color:#AAAAAA ;
+}
+
+.sezione-spazio{
+  margin-top: 2%;
+}
+
+.small-text{
+  font-size: 13px;
+}
+
+span{
+  background-color:#FFFF00;
+}
