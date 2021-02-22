@@ -14,13 +14,13 @@ header{
   margin-left: 10%;
 }
 
-main{
+main, footer {
   width: 80%;
   margin: auto;
 }
 
 h1{
-  font-size: 50px;
+  font-size: 60px;
   margin-top: 1%;
 }
 
@@ -82,4 +82,36 @@ td{
 .special-body{
   background-color:#FFFFFF ;
 }
+
+div{
+  margin-top: 1%;
+}
+
+.special-paragrafo{
+  color:#878787 ;
+  font-size: 18px ;
+}
+
+.immagine-monitor{
+  background-image: url(img/monitor.jpg);
+  background-size: cover;
+  height: 208px;
+  width: 312px;
+}
+
+.immagine-grafico{
+  background-image: url(img/graph.jpg);
+  background-size: cover;
+  height: 208px;
+  width: 312px;
+  margin-bottom: 5%;
+}
+
+.footer-paragrafo{
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-left: 5%;
+  padding-top: 5%;
+}
+
 
